@@ -24,6 +24,10 @@ body{
    
 
 }
+.first-half :hover img{
+    
+    transform: scale(1.5);
+}
 .main-details {
     margin-left: 156px;
 }
